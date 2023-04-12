@@ -11,4 +11,5 @@ Technology used:
 
 **It was used the localhost and postman to verify the functionality**
 
+**Footnote**[^1].
 [^1]: References: Dev Aprender {YT}
